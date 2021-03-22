@@ -1,0 +1,5 @@
+mkdir -p /tmp/tmate
+cd /tmp/tmate
+
+sudo apt install tmate
+tmate -k tmk-1WsfBTSAb78DKQFTAnhaEgOCyP -n testname
